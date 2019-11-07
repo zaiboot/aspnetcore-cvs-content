@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/zaiboot/.dotnet/store/|arch|/|tfm|",
-      "/Users/zaiboot/.nuget/packages"
-    ]
-  }
-}
